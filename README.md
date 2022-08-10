@@ -1,2 +1,2 @@
 # Desafio Dio
-Desafio Dio - Orientação Programada a Objetos
+Orientação Programada a Objetos
